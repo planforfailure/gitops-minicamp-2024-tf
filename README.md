@@ -19,4 +19,4 @@ When running teraform fmt...  for e.g. (global usage with ll commands)
 terraform -chdir="./terraform" fmt
 ```
 
-If `terraform fmt --check` finds linting issues, it will fil in the gha pipeline
+If `terraform fmt --check` finds linting issues, it will fail in the gha pipeline
