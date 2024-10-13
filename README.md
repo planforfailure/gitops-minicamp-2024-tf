@@ -14,7 +14,9 @@ https://github.com/actions/starter-workflows/blob/main/deployments/terraform.yml
 
 # Command Hacks
 
-When running teraform fmt...  for e.g.
+When running teraform fmt...  for e.g. (global usage with ll commands)
 ```bash
-terraform -chdir="./terrform" fmt
+terraform -chdir="./terraform" fmt
 ```
+
+If `terraform fmt --check` finds linting issues, it will fil in the gha pipeline
