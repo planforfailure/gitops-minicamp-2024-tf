@@ -11,3 +11,10 @@ The code in the ./terraform directory is the starter code for the course. This c
 
 ## GH Actions  Template
 https://github.com/actions/starter-workflows/blob/main/deployments/terraform.yml
+
+# Command Hacks
+
+When running teraform fmt...  for e.g.
+```bash
+terraform -chdir="./terrform" fmt
+```
