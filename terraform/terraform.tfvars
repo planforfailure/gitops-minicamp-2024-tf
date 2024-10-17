@@ -1,2 +1,2 @@
-region        = "eu-east-2"
+region        = "eu-west-2"
 instance_type = "t3.micro"
