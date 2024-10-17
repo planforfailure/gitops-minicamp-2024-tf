@@ -20,3 +20,8 @@ terraform -chdir="./terraform" fmt
 ```
 
 If `terraform fmt --check` finds linting issues, it will fail in the gha pipeline
+
+https://github.com/terraform-linters/  #mtc
+
+https://github.com/marketplace/actions/tflint-github-action
+
