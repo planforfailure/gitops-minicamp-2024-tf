@@ -31,6 +31,7 @@ https://spacelift.io/blog/terraform-precondition-postcondition
 
 ## Sesssions 
 [GitOps for Terraform Week 0 Lecture](https://www.youtube.com/watch?v=h2SXGSse2LQ&t=5904)
+
 [GitOps for Terraform Week 1 Lecture](https://www.youtube.com/watch?v=h2SXGSse2LQ&t=5904)
 
 
