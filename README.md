@@ -25,3 +25,7 @@ https://github.com/terraform-linters/  #mtc
 
 https://github.com/marketplace/actions/tflint-github-action
 
+https://github.com/gruntwork-io/terratest
+
+https://spacelift.io/blog/terraform-precondition-postcondition
+
