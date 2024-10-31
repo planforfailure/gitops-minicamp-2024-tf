@@ -29,9 +29,13 @@ https://github.com/gruntwork-io/terratest
 
 https://spacelift.io/blog/terraform-precondition-postcondition
 
-## Sesssions 
+## Sessions 
 [GitOps for Terraform Week 0 Lecture](https://www.youtube.com/watch?v=h2SXGSse2LQ&t=5904)
 
-[GitOps for Terraform Week 1 Lecture](https://www.youtube.com/watch?v=h2SXGSse2LQ&t=5904)
+[GitOps for Terraform Week 1 Lecture](https://www.youtube.com/watch?v=OULodhha9R4)
+
+[Configuring an S3 and DynamoDB Backend for Terraform and GitHub Actions](https://www.youtube.com/watch?v=wzNtExzJ6To)
+
+[Using OPA to Create Guardrails for your GitHub Actions Terraform Deployments](https://www.youtube.com/watch?v=_4HxZpZXRDw)
 
 
